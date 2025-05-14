@@ -1,2 +1,2 @@
-# GNSS_ACG
+# GNSS-ACG
 A repository for the analysis of the GNSS data from Horizontes Forestry Station in ACG
