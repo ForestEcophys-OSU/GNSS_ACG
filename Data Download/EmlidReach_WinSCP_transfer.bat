@@ -23,6 +23,6 @@ echo exit >> "%WINSCP_SCRIPT%"
 :: Ejecutar transferencia
 "C:\Program Files (x86)\WinSCP\WinSCP.com" /script="%WINSCP_SCRIPT%"
 
-echo ===== Transferencia finalizada =====
+echo ===== Transfer finalized =====
 echo File saved in: %outDir%
 pause
