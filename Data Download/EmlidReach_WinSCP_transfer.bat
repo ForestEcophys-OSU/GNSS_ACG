@@ -20,7 +20,7 @@ echo cd /data/logs/ >> "%WINSCP_SCRIPT%"
 echo get *.* >> "%WINSCP_SCRIPT%"
 echo exit >> "%WINSCP_SCRIPT%"
 
-:: Ejecutar transferencia
+:: Data transfer
 "C:\Program Files (x86)\WinSCP\WinSCP.com" /script="%WINSCP_SCRIPT%"
 
 echo ===== Transfer finalized =====
