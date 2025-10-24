@@ -1,0 +1,13 @@
+# core dependencies
+numpy
+pandas
+xarray
+matplotlib
+statsmodels
+# install gnssvod from GitHub
+git+https://github.com/BioM2-Lab/gnssvod.git
+jupyterlab
+ipykernel
+# Optional / commented packages used in notebooks
+# georinex
+# qgrid

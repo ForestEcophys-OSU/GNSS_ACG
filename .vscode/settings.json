@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/Users/vargasgg/miniconda3/envs/gnss_acg/bin/python",
+    "python.condaPath": "/Users/vargasgg/miniconda3/bin/conda",
+    "python.terminal.activateEnvironment": true
+}
