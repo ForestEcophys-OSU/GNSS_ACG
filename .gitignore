@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment files
+.env
+
+# Byte-code files
+__pycache__/
+*.pyc
+
+# IDE-specific files (optional, as the .vscode folder can contain shared settings)
+.vscode/
