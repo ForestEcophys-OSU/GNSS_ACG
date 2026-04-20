@@ -11,3 +11,4 @@ __pycache__/
 
 # IDE-specific files (optional, as the .vscode folder can contain shared settings)
 .vscode/
+.DS_Store
